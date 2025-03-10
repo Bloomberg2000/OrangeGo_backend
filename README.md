@@ -1,5 +1,5 @@
-# db_curriculum_design
- Curriculum Design of 2019 Database Course
+# OrangeGo_backend
+北京林业大学2019年数据库系统课程课程设计 - “影评系统”（数据来源：豆瓣）
 
 ## 目前存在的问题
 - 个人标签不应与电影产生联系
